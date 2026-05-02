@@ -1,0 +1,13 @@
+name = input("Name? ")
+surname = input("Surname? ")
+age = input("Age? ")
+number = int(input("Favorite number? " ))
+color = input("Favorite color? ")
+city = input("Favorite city? ")
+
+print(name)
+print(surname)
+print(age)
+print(number * 2)
+print(color)
+print(city)
